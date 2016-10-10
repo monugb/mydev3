@@ -1,4 +1,5 @@
-﻿var viewFields = "<ViewFields><FieldRef Name='ID' /><FieldRef Name='Title'/><FieldRef Name='PostCategory'/><FieldRef Name='PostType'/><FieldRef Name='PublishedDate'/><FieldRef Name='NumComments'/><FieldRef Name='Body'/><FieldRef Name='SortCalc'/><FieldRef Name='Country'/><FieldRef Name='StoreType'/></ViewFields>";
+﻿//Test
+var viewFields = "<ViewFields><FieldRef Name='ID' /><FieldRef Name='Title'/><FieldRef Name='PostCategory'/><FieldRef Name='PostType'/><FieldRef Name='PublishedDate'/><FieldRef Name='NumComments'/><FieldRef Name='Body'/><FieldRef Name='SortCalc'/><FieldRef Name='Country'/><FieldRef Name='StoreType'/></ViewFields>";
 var listName = 'Posts';
 var webpartName = 'Newsfeed';
 var templateId = 'newsfeedTemplate';
